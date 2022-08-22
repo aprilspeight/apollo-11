@@ -1,13 +1,15 @@
-# <p align="center">Sample Name</p>
+# <p align="center">Apollo 11 VR Museum</p>
 <p align="center">
   <a href="https://github.com/aprilspeight/<repo-name>/blob/master/README.md#requirements">Requirements</a> |
   <a href="https://github.com/aprilspeight/<repo-name>/blob/master/README.md#videos">Video</a> |
-  <a href="https://github.com/aprilspeight/<repo-name>/blob/master/README.md#view-the-sample">View the Sample</a> | 
+  <a href="https://github.com/aprilspeight/<repo-name>/blob/master/README.md#view-the-sample">View the Sample</a> |
   <a href="https://github.com/aprilspeight/<repo-name>/blob/master/README.md#resources">Resources</a> | 
   <a href="https://github.com/aprilspeight/<repo-name>/blob/master/README.md#contact">Contact</a>
 </p>
 
 For this <i>Made with MRTK</i> project, I decided to revisit my love of space exploration and bring the educational experience into VR. I created my very own interactive Apollo 11 exhibit with 3D models courtesy of the Smithsonian 3D Digitization project and NASA.
+
+![A screenshot of the Apollo 11 exhibit.](full-museum.jpg)
 
 ## Requirements
 
