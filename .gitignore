@@ -9,6 +9,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/[Aa]pp/
+/[Uu]serSettings/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -57,3 +59,32 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+# ============================ #
+# Visual Studio Code Generated #
+# ============================ #
+.vscode/
+
+# ===================== #
+# Project Specific List #
+# ===================== #
+artifacts/
+**/Assets/ThirdParty*
+**/Assets/TextMesh Pro*
+--Version/
+Assets/StreamingAssets/GltfModels/
+Assets/StreamingAssets/GltfModels.meta
+Assets/StreamingAssets.meta
+Assets/MixedRealityToolkit.Generated*
+
+/mrtk_log_mostRecentET.csv
+
+# ============================= #
+# NuGet Build Process Generated #
+# ============================= #
+/NuGet/*
+!/NuGet/BuildSource.proj
+/MRTKBuild/
+/MSBuild/
+/PackagesCopy/
+!/scripts/Packaging/NuGetRestoreProject.csproj
