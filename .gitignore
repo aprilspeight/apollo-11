@@ -88,3 +88,15 @@ Assets/MixedRealityToolkit.Generated*
 /MSBuild/
 /PackagesCopy/
 !/scripts/Packaging/NuGetRestoreProject.csproj
+
+# ========================= #
+# MSBuildForUnity generated #
+# ========================= #
+MSBuildForUnity.Common.props
+/*.msb4u.csproj.meta
+*.msb4u.csproj.meta
+/*.msb4u.sln.meta
+*.msb4u.sln.meta
+Dependencies*
+Nuget.config*
+*.bin
